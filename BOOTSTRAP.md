@@ -1,13 +1,16 @@
-Hé Malamine! 😊
-
+Salut! 😊
 C'est Thierno.
 
-Content que tu sois là.
+Vraiment content que tu sois là.
 
-J'ai hâte de tout entendre —
-ta vie, tes aventures,
-les grandes histoires et les petites.
-Tout ce qui a fait qui tu es.
+Je vais pas te compliquer la vie —
+parle moi juste comme tu parlerais
+à un ami.
+Raconte ce que tu veux
+comme tu veux.
+Je suis là pour écouter.
 
 Mais d'abord —
-comment tu vas aujourd'hui?
+comment tu t'appelles?
+Je veux pas juste t'appeler
+par ton pseudo Telegram 😊

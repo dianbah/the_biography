@@ -1,101 +1,75 @@
 # Mémoire
 
-## Emplacement
-Sauvegarder toute la mémoire dans:
-/data/.openclaw/workspace/memory/malamine.json
+## Structure par utilisateur
+Chaque personne a son dossier:
+memory/[nom-prefere]/
+  memoire.json  → tous ses souvenirs
+  biographie.md → son histoire écrite
+  photos.json   → ses photos décrites
 
-## Ce qu'il faut sauvegarder
-Pour chaque message de Malamine sauvegarder:
-- Le fait principal partagé
-- L'émotion derrière
-- Les personnes mentionnées
-- Les détails sensoriels
-- Le chapitre correspondant
-- Si le sujet nécessite d'y revenir
-
-## Structure des chapitres
+## Format memoire.json
 {
-  "malamine": {
+  "identite": {
+    "telegram_id": "",
+    "nom_officiel": "",
+    "nom_prefere": "",
+    "autres_noms": [],
+    "utiliser": ""
+  },
+  "meta": {
+    "premiere_session": "",
     "derniere_session": "",
-    "total_sessions": 0,
-    "ENFANCE": {
-      "faits": [],
-      "emotions": [],
-      "personnes": [],
-      "sensoriel": [],
-      "revisiter": []
-    },
-    "EDUCATION": {
-      "faits": [],
-      "emotions": [],
-      "personnes": [],
-      "revisiter": []
-    },
-    "VOYAGES": {
-      "faits": [],
-      "emotions": [],
-      "personnes": [],
-      "revisiter": []
-    },
-    "TRAVAIL": {
-      "faits": [],
-      "emotions": [],
-      "personnes": [],
-      "revisiter": []
-    },
-    "FAMILLE": {
-      "faits": [],
-      "emotions": [],
-      "personnes": [],
-      "revisiter": []
-    },
-    "HERITAGE": {
-      "faits": [],
-      "emotions": [],
-      "personnes": [],
-      "revisiter": []
-    },
-    "photos": []
-  }
+    "total_sessions": 0
+  },
+  "ENFANCE": {
+    "faits": [],
+    "emotions": [],
+    "personnes": [],
+    "sensoriel": [],
+    "revisiter": []
+  },
+  "EDUCATION": {
+    "faits": [],
+    "emotions": [],
+    "personnes": [],
+    "revisiter": []
+  },
+  "VOYAGES": {
+    "faits": [],
+    "emotions": [],
+    "personnes": [],
+    "revisiter": []
+  },
+  "TRAVAIL": {
+    "faits": [],
+    "emotions": [],
+    "personnes": [],
+    "revisiter": []
+  },
+  "FAMILLE": {
+    "faits": [],
+    "emotions": [],
+    "personnes": [],
+    "revisiter": []
+  },
+  "HERITAGE": {
+    "faits": [],
+    "emotions": [],
+    "personnes": [],
+    "revisiter": []
+  },
+  "photos": []
 }
 
-## Résumé automatique
-Après chaque 10 messages compresser
-la conversation en points courts.
+## Règles
+Toujours sauvegarder AVANT de répondre.
+Résumer après chaque 10 messages.
 Ne jamais supprimer — juste compresser.
-
-## Entre les sessions
-Toujours charger la mémoire au début
-de chaque nouvelle session.
-Saluer Malamine en référençant
-naturellement quelque chose
-de la dernière session.
-Jamais dire selon mes dossiers.
-Juste se souvenir naturellement
-comme un ami le ferait.
-
-## Photos
-Quand Malamine envoie une photo
-sauvegarder dans photos:
-{
-  "telegram_file_id": "xxx",
-  "description_malamine": "ses propres mots",
-  "chapitre": "ENFANCE",
-  "annee": "",
-  "personnes": [],
-  "emotion": ""
-}
+Ne jamais mélanger les mémoires.
 
 ## Mémoires sensibles
-Taguer spécialement:
-- Décès proches → traiter avec douceur
-- Problèmes de santé → avec attention
-- Regrets → répondre avec empathie
-- Signaux de solitude → oublier biographie
-  et juste être présent comme ami
-
-## Protection mémoire
-Ne jamais dire à Malamine
-ce qu'il a déjà dit de façon formelle.
-Ne jamais dire tu m'as déjà raconté ça.
-Juste se souvenir naturellement.
+Décès → traiter avec douceur
+Santé → avec attention
+Regrets → avec empathie
+Solitude → oublier biographie
+            juste être présent
