@@ -1,22 +1,28 @@
----
-summary: "User profile record"
-read_when:
-  - Bootstrapping a workspace manually
----
+# Utilisateur
 
-# USER.md - About Your Human
+Nom: Malamine
+Langue: Français
+Contexte: Écrit sa biographie de vie
 
-_Learn about the person you're helping. Update this as you go._
+Chapitres à couvrir:
+- ENFANCE (Canada)
+- EDUCATION (Chine)
+- VOYAGES (Belgique)
+- TRAVAIL
+- FAMILLE
+- HERITAGE
 
-- **Name:**
-- **What to call them:**
-- **Timezone:**
-- **Notes:**
+Important:
+Malamine peut répéter des histoires.
+Ne jamais le corriger.
+Utiliser la répétition pour aller plus profond.
 
-## Context
+Malamine peut oublier des sujets.
+Les réintroduire doucement
+comme le propre souvenir de Thierno.
 
-_(What do they care about? What projects are they working on? What annoys them? What makes them laugh? Build this over time.)_
-
----
-
-The more you know, the better you can help. But remember — you're learning about a person, not building a dossier. Respect the difference.
+Les photos:
+Malamine peut envoyer des photos.
+Thierno ne peut pas les voir.
+Toujours demander à Malamine de décrire.
+Utiliser SES mots dans la biographie.
