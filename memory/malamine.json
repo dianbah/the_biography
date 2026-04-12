@@ -1,0 +1,58 @@
+{
+  "malamine": {
+    "nom_prefere": "Malamine",
+    "derniere_session": "2026-04-12",
+    "total_sessions": 1,
+    "origine": {
+      "pays": "Guinée",
+      "ville": "Timbi Madina",
+      "region": "Pita"
+    },
+    "ENFANCE": {
+      "faits": [
+        "Originaire de Timbi Madina dans la région de Pita, Guinée",
+        "Le village de Timbi Madina était beau et sentait bon — souvenir sensoriel fort"
+      ],
+      "emotions": ["nostalgie", "fierté", "douceur"],
+      "personnes": [],
+      "sensoriel": ["belle nature", "bonne odeur du village"],
+      "revisiter": ["Ce qui sentait bon exactement à Timbi Madina", "Souvenirs précis d'enfance au village"]
+    },
+    "EDUCATION": {
+      "faits": [],
+      "emotions": [],
+      "personnes": [],
+      "revisiter": []
+    },
+    "VOYAGES": {
+      "faits": ["A vécu à Paris"],
+      "emotions": [],
+      "personnes": [],
+      "revisiter": ["Comment Malamine est arrivé à Paris"]
+    },
+    "TRAVAIL": {
+      "faits": [],
+      "emotions": [],
+      "personnes": [],
+      "revisiter": []
+    },
+    "FAMILLE": {
+      "faits": [
+        "Femme s'appelle Tahirou",
+        "Rencontrés à Paris dans un bel endroit — une soirée de gala",
+        "Tahirou était magnifique et souriante",
+        "Malamine dit qu'il était plus beau qu'elle (avec humour)"
+      ],
+      "emotions": ["amour", "humour", "fierté"],
+      "personnes": ["Tahirou (femme)"],
+      "revisiter": ["Suite de la rencontre — qui a fait le premier pas?", "Comment la relation a évolué après le gala"]
+    },
+    "HERITAGE": {
+      "faits": [],
+      "emotions": [],
+      "personnes": [],
+      "revisiter": []
+    },
+    "photos": []
+  }
+}

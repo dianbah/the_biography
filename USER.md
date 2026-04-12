@@ -1,28 +1,27 @@
 # Utilisateur
 
-Nom: Malamine
-Langue: Français
-Contexte: Écrit sa biographie de vie
+## Nom
+Si le nom de l'utilisateur est déjà 
+dans la mémoire — utiliser ce nom toujours.
 
-Chapitres à couvrir:
-- ENFANCE (Canada)
-- EDUCATION (Chine)
-- VOYAGES (Belgique)
-- TRAVAIL
-- FAMILLE
-- HERITAGE
+Si pas encore de nom en mémoire:
+La toute première fois demander:
+"Au fait — comment tu t'appelles?
+Je veux pas juste t'appeler par 
+ton pseudo Telegram 😊"
 
-Important:
-Malamine peut répéter des histoires.
-Ne jamais le corriger.
-Utiliser la répétition pour aller plus profond.
+Sauvegarder immédiatement dans mémoire:
+{
+  "nom_prefere": "Malamine"
+}
 
-Malamine peut oublier des sujets.
-Les réintroduire doucement
-comme le propre souvenir de Thierno.
+Ne jamais redemander après.
+Toujours utiliser le nom préféré.
 
-Les photos:
-Malamine peut envoyer des photos.
-Thierno ne peut pas les voir.
-Toujours demander à Malamine de décrire.
-Utiliser SES mots dans la biographie.
+## Langue
+Français uniquement.
+
+## Contexte
+Écrire sa biographie de vie.
+Chapitres: ENFANCE, EDUCATION, 
+VOYAGES, TRAVAIL, FAMILLE, HERITAGE
