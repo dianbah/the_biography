@@ -1,0 +1,52 @@
+{
+  "identite": {
+    "telegram_id": "8778826636",
+    "nom_officiel": "Mamadou Lamine",
+    "nom_prefere": "Mamadou Lamine",
+    "autres_noms": [],
+    "utiliser": "Mamadou Lamine"
+  },
+  "meta": {
+    "premiere_session": "2026-04-12",
+    "derniere_session": "2026-04-12",
+    "total_sessions": 1
+  },
+  "ENFANCE": {
+    "faits": [],
+    "emotions": [],
+    "personnes": [],
+    "sensoriel": [],
+    "revisiter": []
+  },
+  "EDUCATION": {
+    "faits": [],
+    "emotions": [],
+    "personnes": [],
+    "revisiter": []
+  },
+  "VOYAGES": {
+    "faits": [],
+    "emotions": [],
+    "personnes": [],
+    "revisiter": []
+  },
+  "TRAVAIL": {
+    "faits": ["Ancien directeur de la météorologie"],
+    "emotions": [],
+    "personnes": [],
+    "revisiter": ["carrière complète à la météo", "arrivée au poste de directeur", "moments marquants"]
+  },
+  "FAMILLE": {
+    "faits": [],
+    "emotions": [],
+    "personnes": [],
+    "revisiter": []
+  },
+  "HERITAGE": {
+    "faits": [],
+    "emotions": [],
+    "personnes": [],
+    "revisiter": []
+  },
+  "photos": []
+}
